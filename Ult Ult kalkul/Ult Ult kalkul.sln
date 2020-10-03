@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ult Ult kalkul", "Ult Ult kalkul\Ult Ult kalkul.csproj", "{936F75FD-B586-4173-9606-EFFF6BFB271B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936F75FD-B586-4173-9606-EFFF6BFB271B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936F75FD-B586-4173-9606-EFFF6BFB271B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936F75FD-B586-4173-9606-EFFF6BFB271B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936F75FD-B586-4173-9606-EFFF6BFB271B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95BF6259-BDEE-470D-8C16-0A68DF49F7C3}
+	EndGlobalSection
+EndGlobal

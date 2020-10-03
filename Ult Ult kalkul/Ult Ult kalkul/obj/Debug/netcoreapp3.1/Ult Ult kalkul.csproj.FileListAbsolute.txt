@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Ult Ult kalkul\Ult Ult kalkul\obj\Debug\netcoreapp3.1\Ult Ult kalkul.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ult Ult kalkul\Ult Ult kalkul\obj\Debug\netcoreapp3.1\Ult Ult kalkul.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ult Ult kalkul\Ult Ult kalkul\obj\Debug\netcoreapp3.1\Ult Ult kalkul.AssemblyInfo.cs
+C:\Users\User\source\repos\Ult Ult kalkul\Ult Ult kalkul\obj\Debug\netcoreapp3.1\Ult Ult kalkul.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ult Ult kalkul\Ult Ult kalkul\bin\Debug\netcoreapp3.1\Ult Ult kalkul.exe
+C:\Users\User\source\repos\Ult Ult kalkul\Ult Ult kalkul\bin\Debug\netcoreapp3.1\Ult Ult kalkul.deps.json
+C:\Users\User\source\repos\Ult Ult kalkul\Ult Ult kalkul\bin\Debug\netcoreapp3.1\Ult Ult kalkul.runtimeconfig.json
+C:\Users\User\source\repos\Ult Ult kalkul\Ult Ult kalkul\bin\Debug\netcoreapp3.1\Ult Ult kalkul.runtimeconfig.dev.json
+C:\Users\User\source\repos\Ult Ult kalkul\Ult Ult kalkul\bin\Debug\netcoreapp3.1\Ult Ult kalkul.dll
+C:\Users\User\source\repos\Ult Ult kalkul\Ult Ult kalkul\bin\Debug\netcoreapp3.1\Ult Ult kalkul.pdb
+C:\Users\User\source\repos\Ult Ult kalkul\Ult Ult kalkul\obj\Debug\netcoreapp3.1\Ult Ult kalkul.dll
+C:\Users\User\source\repos\Ult Ult kalkul\Ult Ult kalkul\obj\Debug\netcoreapp3.1\Ult Ult kalkul.pdb
+C:\Users\User\source\repos\Ult Ult kalkul\Ult Ult kalkul\obj\Debug\netcoreapp3.1\Ult Ult kalkul.genruntimeconfig.cache
